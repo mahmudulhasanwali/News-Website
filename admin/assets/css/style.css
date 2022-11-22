@@ -1,0 +1,8 @@
+.main_menu{
+  background: #0a1d6e;
+}
+
+.menu li a{
+  font-size: 15px;
+  color: #fff !important;
+}
